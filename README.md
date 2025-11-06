@@ -1,4 +1,4 @@
-# Interview Bot MVP - Project Overview
+# Interview IO - Project Overview
 
 ## Problem Statement
 
