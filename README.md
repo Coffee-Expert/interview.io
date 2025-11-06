@@ -54,7 +54,9 @@ The Interview Bot MVP is a Streamlit-based web application that simulates real i
 4. User answers questions; responses are stored and scored.
 5. At the end, the bot provides a summary and a score, with a full Q&A recap.
 
-##Live Demo
+## [Presentation for our Project](https://github.com/Coffee-Expert/interview.io/blob/main/Interview-IO.pptx)
+
+## Live Demo
 
 
 https://github.com/user-attachments/assets/6f1c12ee-2e6e-4e56-8acb-6088cc74a30d
